@@ -51,7 +51,7 @@ export const Projects = () => {
                   }
                 >
                   <h2>Projetos</h2>
-                  <p>Uma prévia dos projetos que já trabalheii</p>
+                  <p>Uma prévia dos projetos que já trabalheiii</p>
                   <Tab.Container id="projects-tabs" defaultActiveKey="first">
                     <Nav
                       variant="pills"
